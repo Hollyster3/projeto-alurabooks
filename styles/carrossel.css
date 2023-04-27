@@ -117,4 +117,7 @@
         width: 60%;
         margin-left:3em;
     }
+    .carrossel__titulo{
+        font-size: 32px;
+    }
 }
